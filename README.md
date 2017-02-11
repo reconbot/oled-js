@@ -3,6 +3,8 @@
 oled js
 ========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/oled-js.svg)](https://greenkeeper.io/)
+
 ![oled-cat](http://f.cl.ly/items/2G041X2C1o2A1n2D3S18/cat-oled.png)
 
 ## What is this?
